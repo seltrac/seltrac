@@ -1,3 +1,3 @@
 # Hello I'm Seltrac
 
-This is my GitHub repo link: <https://github.com/seltrac>
+This is my GitHub profile link: <https://github.com/seltrac>
